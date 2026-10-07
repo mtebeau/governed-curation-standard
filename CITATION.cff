@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use or adopt this standard, please cite it."
+title: "Governed Curation Standard"
+authors:
+  - family-names: Tebeau
+    given-names: Mark
+    affiliation: "Arizona State University"
+version: 0.1-dev
+license: CC-BY-4.0
+url: "https://arcadecuration.org"
